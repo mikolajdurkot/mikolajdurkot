@@ -1,16 +1,13 @@
 ### No dzień dobry 👋
 ### oguem
 
-<!--
-**mikolajdurkot/mikolajdurkot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 co lubie:
-
-- 🔭 teleskop np.
-- 🌱 roślina zielona
-- 👯 2 osoby
-- 🤔 myśleć
-- 💬 cumulonimbus
-- 📫 pisac maile irl (listy) [zartowalem]
-- 😄 smiac sie
-- ⚡ kopac sie pradem
+<br/>
+- 🔭 teleskop np.<br/>
+- 🌱 roślina zielona<br/>
+- 👯 2 osoby<br/>
+- 🤔 myśleć<br/>
+- 💬 cumulonimbus<br/>
+- 📫 pisac maile irl (listy) [zartowalem]<br/>
+- 😄 smiac sie<br/>
+- ⚡ kopac sie pradem<br/>
