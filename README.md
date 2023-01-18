@@ -1,6 +1,11 @@
 ### No dzień dobry 👋
 ### oguem
 
+linki:
+<br/>
+- [fork](https://github.com/mikolajdurkot/VToonify)<br/>
+- [link](https://paperswithcode.com/paper/vtoonify-controllable-high-resolution)<br/>
+
 co lubie:
 <br/>
 - 🔭 teleskop np.<br/>
